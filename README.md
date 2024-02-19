@@ -1,6 +1,7 @@
 # Pengalaman Belajar di Dicoding
 
 ## Latihan Branch
+latihan commit conflict, 1
 
 **14 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
